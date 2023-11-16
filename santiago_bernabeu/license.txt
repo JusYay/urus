@@ -1,0 +1,11 @@
+Model Information:
+* title:	santiago bernabeu
+* source:	https://sketchfab.com/3d-models/santiago-bernabeu-efb96fe1eb004570b5bde1cad0e3272f
+* author:	mikmikoni (https://sketchfab.com/mikmikoni)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "santiago bernabeu" (https://sketchfab.com/3d-models/santiago-bernabeu-efb96fe1eb004570b5bde1cad0e3272f) by mikmikoni (https://sketchfab.com/mikmikoni) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
