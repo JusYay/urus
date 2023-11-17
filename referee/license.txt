@@ -1,0 +1,11 @@
+Model Information:
+* title:	Referee
+* source:	https://sketchfab.com/3d-models/referee-1fb3f2fdf9c34aafb9e3602c431da133
+* author:	FrigidCarlKid (https://sketchfab.com/kmorganc1)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Referee" (https://sketchfab.com/3d-models/referee-1fb3f2fdf9c34aafb9e3602c431da133) by FrigidCarlKid (https://sketchfab.com/kmorganc1) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
